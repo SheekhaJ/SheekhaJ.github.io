@@ -1,7 +1,30 @@
-name: Sheekha J's blog
+# Dependencies
+# markdown:         redcarpet
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+highlighter:      pygments
 
-twitter_username: jariwalashikha
-linkedin_username: sheekhajariwala
-quora_username: Sheekha-Jariwala
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Sheekha Jariwala
+tagline:          'A Jekyll theme'
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description: 'Computer-Science grad | Bibliophile | Deep Work Enthusiast'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+plugins: [jekyll-paginate]
+
+author:
+  name:           'Sheekha Jariwala'
+  url:            https://twitter.com/ShikhaJariwla
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/SheekhaJ/SheekhaJ.github.io
