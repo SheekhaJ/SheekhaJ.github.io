@@ -1,17 +1,14 @@
 # Dependencies
-# markdown:         redcarpet
 markdown: kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            Sheekha Jariwala
 tagline:          'A Jekyll theme'
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description: 'Computer-Science grad | Bibliophile | Deep Work Enthusiast'
+description:      'Computer-Science grad | Bibliophile'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
