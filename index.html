@@ -1,8 +1,42 @@
 ---
 layout: default
-title: Sheekha J
+title: Sheekha Jariwala
 ---
-<div class="blurb">
+
+<div class="posts">
+	{% for post in paginator.posts %}
+	<div class="post">
+	  <h1 class="post-title">
+		<a href="{{ post.url }}">
+		  {{ post.title }}
+		</a>
+	  </h1>
+  
+	  <span class="post-date">{{ post.date | date_to_string }}</span>
+  
+	  {{ post.content }}
+	</div>
+	{% endfor %}
+  </div>
+  
+  <div class="pagination">
+	{% if paginator.next_page %}
+	  <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+	{% else %}
+	  <span class="pagination-item older">Older</span>
+	{% endif %}
+	{% if paginator.previous_page %}
+	  {% if paginator.page == 2 %}
+		<a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+	  {% else %}
+		<a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+	  {% endif %}
+	{% else %}
+	  <span class="pagination-item newer">Newer</span>
+	{% endif %}
+  </div>
+
+<!-- <div class="blurb">
 	<h1>Hi there, I'm Sheekha Jariwala!</h1>
 	<p>I'm a first-year Masters student in Computer Science as part of <a href="http://eecs.oregonstate.edu/future-students/graduate/ms-cs-innovation">Software Innovation Track</a> at Oregon State University.</p>
 	<table>
@@ -20,13 +54,13 @@ title: Sheekha J
 			</td>
 		</tr>
 	</table>
-	<!-- <h3>Work Experience&nbsp;&nbsp;&nbsp;&nbsp;(2014-2018)</h3>
+	<h3>Work Experience&nbsp;&nbsp;&nbsp;&nbsp;(2014-2018)</h3>
 	<ul>
 		<li>SDET to develop framework to test digital voice assistant Amazon Alexa in addition to web and mobile applications.</li>
 		<li>DevOps Engineer to work with Cloudbees Jenkins on setting up and maintaining CI Pipeline to create test-environments, run code analysis tools, build and deploy test artifacts on JFrog Artifactory. </li>
 		<li>QA Engineer to write scripts in Java using Selenium WebDriver, Appium and Perfecto to automate testing of web and mobile applications.</li>
-	</ul> -->
-	<!-- <p>Previously I've worked for close to 4 years as SDET and QA Engineer in banking domain! I've developed framework to test digital voice assistant Amazon Alexa in addition to web and mobile applications. 
+	</ul>
+	<p>Previously I've worked for close to 4 years as SDET and QA Engineer in banking domain! I've developed framework to test digital voice assistant Amazon Alexa in addition to web and mobile applications. 
 		I've also worked with Cloudbees Jenkins on setting up and maintaining CI Pipeline to create test-environments, run code analysis tools, build and deploy test artifacts on JFrog Artifactory. 
-	</p> -->
-</div><!-- /.blurb -->
+	</p>
+</div> -->
