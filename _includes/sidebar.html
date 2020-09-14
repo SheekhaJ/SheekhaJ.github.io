@@ -59,6 +59,7 @@
         {% endif %}
       {% endfor %}
 
+      <a target="_blank" class="sidebar-nav-item{% if page.url == '/assets/cv.pdf' | relative_url %} active{% endif %}" href="{{ site.url }}/public/assets/Resume_SheekhaJariwala.pdf">Resume</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
