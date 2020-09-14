@@ -1,5 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -7,6 +8,38 @@
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <div id="contact-list1" style="text-align:left">
+      <!-- contact icons go here --> 
+      {% if site.author.github %}
+        <a href="https://github.com/{{ site.author.github }}" target="_blank">
+            <span class="fa-stack fa-medium">
+                <i class="fab fa-github fa-stack-2x"></i>
+            </span>
+        </a>
+      {% endif %}
+      {% if site.author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">
+            <span class="fa-stack fa-medium">
+                <i class="fab fa-linkedin fa-stack-2x"></i>
+            </span>
+        </a>
+      {% endif %}
+      {% if site.author.twitter %}
+        <a href="https://www.twitter.com/{{ site.author.twitter }}" target="_blank">
+            <span class="fa-stack fa-medium">
+                <i class="fab fa-twitter fa-stack-2x"></i>
+            </span>
+        </a>
+      {% endif %}	
+      {% if site.author.goodreads %}
+        <a href="https://www.goodreads.com/{{ site.author.goodreads }}" target="_blank">
+            <span class="fa-stack fa-medium">
+                <i class="fab fa-goodreads fa-stack-2x"></i>
+            </span>
+        </a>
+      {% endif %}	
     </div>
 
     <nav class="sidebar-nav">
@@ -26,8 +59,6 @@
         {% endif %}
       {% endfor %}
 
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-      <!-- <embed src="./pdfs/Resume_SheekhaJariwala.pdf" type="application/pdf" /> -->
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
