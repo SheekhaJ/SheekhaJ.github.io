@@ -9,14 +9,17 @@ permalink:        pretty
 title:            Sheekha Jariwala
 tagline:          'A Jekyll theme'
 description:      'Computer-Science grad | Bibliophile'
-url:              http://hyde.getpoole.com
+url:              http://sheekhaj.github.io
 baseurl:          /
 
 plugins:          [jekyll-paginate]
 
 author:
   name:           'Sheekha Jariwala'
-  url:            https://twitter.com/ShikhaJariwla
+  github:         'SheekhaJ'
+  linkedin:       'sheekhajariwala'
+  twitter:        'ShikhaJariwla'
+  goodreads:      'sheekhajariwala'
 
 paginate:         5
 
