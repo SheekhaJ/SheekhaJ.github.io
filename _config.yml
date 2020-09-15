@@ -10,7 +10,7 @@ title:            Sheekha Jariwala
 tagline:          'A Jekyll theme'
 description:      'Computer-Science grad | Bibliophile'
 url:              http://sheekhaj.github.io
-baseurl:          /
+# baseurl:          /
 
 plugins:          [jekyll-paginate]
 
