@@ -42,6 +42,18 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 
 ---
 
+## Projects
+### Expert Retrieval System
+* Designed & developed a web-app using React, Redux, Node.js, Express & Neo4j graph-database to source students’ and their domain expertise info to model property graph to search topic experts. 
+
+### DevOps in AWS
+* Built the CI/CD pipeline on AWS platform using CodePipeline, CodeBuild and CodeDeploy for an Node.js application. 
+
+### GIFovie
+* NodeJS application using Express to let users add sounds stored in AWS S3 to GIFs from Tenor API and share them.
+
+---
+
 ## About the website
 Developed and hosted with <i class="fas fa-heart"></i> on [Github Pages](https://pages.github.com/). 
 
