@@ -20,6 +20,10 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
   - DevOps Engineer
   - Automation QA Engineer
 
+## Education
+* Oregon State University - MS in Computer Science - [2018 - 2020]
+* Gujarat Technological University - BE in Electrical Engineering - [2010 - 2014]
+
 
 ## About the website
 Developed and hosted with <i class="fas fa-heart"></i> on [Github Pages](https://pages.github.com/). 
