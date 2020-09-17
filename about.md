@@ -12,21 +12,25 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 ---
 
 ## Work Experience
-* [Oregon State University](https://oregonstate.edu/ "Home page of Oregon State University") - [2019 - 2020]
+* [**Oregon State University**](https://oregonstate.edu/ "Home page of Oregon State University") - [2019 - 2020]
   - Graduate Teaching Assistant - CS-493 Cloud Application Development
   - Graduate Teaching Assistant - CS-562 Software Project Management
   - Graduate Teaching Assistant - CS-361 - Software Engineering I
   - Graduate Teaching Assistant - CS-561 - Software Engineering Methods
-* [Cognizant Technology Solutions](https://www.cognizant.com/) - [2014 - 2018]
-  - Software Development Engineer in Test 
+* [**Cognizant Technology Solutions**](https://www.cognizant.com/) - [2014 - 2018]
+    - Software Development Engineer in Test 
+    + Alexa Automation Framework Development - Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa.
   - DevOps Engineer
+    + Built CI pipeline using Jenkins, Maven, Git and JFrog Artifactory by modifying & integrating test-framework to trigger sanity tests for web & mobile app builds to share build-health reports for 26 engineers. 
   - Automation QA Engineer
+    + Built and customized hybrid test-automation framework for cloud mobile devices to run tests using Appium and Perfecto. Reduced test-execution time by 82% to signoff builds from SIT to QA environment by writing test-scripts to automate testing of mobile apps. 
+    + Reduced time by 96% to analyze automation effort-saving for 8 engineers by developing a client to fetch test-run time from HP ALM.
 
 ---
 
 ## Education
-* Oregon State University - MS in Computer Science - [2018 - 2020]
-* Gujarat Technological University - BE in Electrical Engineering - [2010 - 2014]
+* **Oregon State University** - MS in Computer Science - [2018 - 2020]
+* **Gujarat Technological University** - BE in Electrical Engineering - [2010 - 2014]
 
 ---
 
