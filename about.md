@@ -55,17 +55,17 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 ### DevOps in AWS
 * Built the CI/CD pipeline on AWS platform using CodePipeline, CodeBuild and CodeDeploy for an Node.js application. 
 
-### GIFovie
+### GIFovie - GIFs with sound <a href="https://github.com/SheekhaJ/Gifovie" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
 * NodeJS application using Express to let users add sounds stored in AWS S3 to GIFs from Tenor API and share them.
 
-### NLP - Language Model Development
+### Natural Language Processing - Language Model Development <a href="https://github.com/SheekhaJ/CS-539-NaturalLanguageProcessing" alt="View on Github"> <i class="fab fa-github-square" style="color:#313131"></i></a>
 * Developed language model for translation between English and Japanese Katakana using Carmel and Viterbi algorithm.
 
 ### Data-science library upgrade behavior study
 * Study of over 3000 Git repositories to analyze developer behavior in upgrading dependencies versions in Python data-science projects.
 
-### Applied Machine Learning Projects
-* Developed models for salary prediction and house price prediction using machine learning techniques with 0.147 error rate.
+### Applied Machine Learning Projects <a href="https://github.com/SheekhaJ/CS519AppliedMachineLearning" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+* Developed models for salary prediction, house price prediction and movie review sentiment analysis using different machine learning algorithms.
 
 ---
 
