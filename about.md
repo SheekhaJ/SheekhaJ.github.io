@@ -59,13 +59,13 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 * NodeJS application using Express to let users add sounds stored in AWS S3 to GIFs from Tenor API and share them.
 
 ### NLP - Language Model Development
-Developed language model for translation between English and Japanese Katakana using Carmel and Viterbi algorithm.
+* Developed language model for translation between English and Japanese Katakana using Carmel and Viterbi algorithm.
 
 ### Data-science library upgrade behavior study
-Study of over 3000 Git repositories to analyze developer behavior in upgrading dependencies versions in Python data-science projects.
+* Study of over 3000 Git repositories to analyze developer behavior in upgrading dependencies versions in Python data-science projects.
 
 ### Applied Machine Learning Projects
-Developed models for salary prediction and house price prediction using machine learning techniques with 0.147 error rate.
+* Developed models for salary prediction and house price prediction using machine learning techniques with 0.147 error rate.
 
 ---
 
