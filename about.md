@@ -19,7 +19,7 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
   - **Graduate Teaching Assistant** - CS-561 - Software Engineering Methods
 * [**Cognizant Technology Solutions**](https://www.cognizant.com/) - [2014 - 2018]
   - **Software Development Engineer in Test**
-    + Alexa Automation Framework Development - Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa. 
+    + Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa. 
     + Delivered training on Java, web & mobile automation testing using Selenium Web Driver, Appium & Perfecto for a team of 15 resources. 
     + Led, mentored, performed code-review for a team of 3 resources interviewed out of 15 resources trained to perform for web & mobile automation testing.
   - **DevOps Engineer**
@@ -50,22 +50,28 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 
 ## Projects
 ### Expert Retrieval System
-* Designed & developed a web-app using React, Redux, Node.js, Express & Neo4j graph-database to source students’ and their domain expertise info to model property graph to search topic experts. 
+* Designed & developed a web-app using **React**, **Redux**, **Node.js**, **Express** & **Neo4j** graph-database to source students’ and their domain expertise info to model property graph to search topic experts. 
+
+### Publisher-Subscriber System <a href="https://github.com/SheekhaJ/rabbitmq-sample" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+* Developed a **Flask** application to publish jobs to the subscribed processes by using **RabbitMQ**.
+
+### Natural Language Query to Cypher Query Generation <a href="https://github.com/SheekhaJ/CS535_final_project" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+* Deep-learning project to develop an encoder-decoder model to generate Cypher (query language for Neo4j database) query from natural language query using **Pytorch** for <a href="https://github.com/salesforce/WikiSQL">WikiSQL</a> dataset. 
 
 ### DevOps in AWS
-* Built the CI/CD pipeline on AWS platform using CodePipeline, CodeBuild and CodeDeploy for an Node.js application. 
+* Built the CI/CD pipeline on **AWS platform** using **CodePipeline**, **CodeBuild** and **CodeDeploy** for an Node.js application. 
 
 ### GIFovie - GIFs with sound <a href="https://github.com/SheekhaJ/Gifovie" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
-* NodeJS application using Express to let users add sounds stored in AWS S3 to GIFs from Tenor API and share them.
+* **NodeJS** application using **Express** to let users add sounds stored in **AWS S3** to GIFs from **Tenor API** and share them.
 
 ### Natural Language Processing - Language Model Development <a href="https://github.com/SheekhaJ/CS-539-NaturalLanguageProcessing" alt="View on Github"> <i class="fab fa-github-square" style="color:#313131"></i></a>
-* Developed language model for translation between English and Japanese Katakana using Carmel and Viterbi algorithm.
+* Developed language model for translation between English and Japanese Katakana using **Carmel** and **Viterbi algorithm**.
 
 ### Data-science library upgrade behavior study
 * Study of over 3000 Git repositories to analyze developer behavior in upgrading dependencies versions in Python data-science projects.
 
 ### Applied Machine Learning Projects <a href="https://github.com/SheekhaJ/CS519AppliedMachineLearning" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
-* Developed models for salary prediction, house price prediction and movie review sentiment analysis using different machine learning algorithms.
+* Developed models for salary prediction, house price prediction and movie review sentiment analysis using different machine learning algorithms of **scikit** library.
 
 ---
 
