@@ -9,6 +9,24 @@ permalink:        pretty
 title:            Sheekha Jariwala
 tagline:          'My Portfolio'
 description:      'Computer-Science Grad | Bibliophile'
+
+# Following comment is from repository https://github.com/jreel/jreel.github.io. Very useful! 
+# There is much confusion around the use of the settings for url and baseurl.
+# With newest version of Jekyll, you *should* only need to specify baseurl,
+#   and that ONLY if your site is hosted under a subdirectory.
+#   An example of this would be for GitHub Project pages, hosted at http://YOU.github.io/PROJECT
+#   In this case, set the baseurl to "/PROJECT".
+#
+# For GitHub User pages, hosted at http://YOU.github.io
+#  you DO NOT need to include the baseurl (in fact, things will break if you do).
+#
+# The newest version of Jekyll includes the absolute_url and relative_url filters
+#  and I use them in my templates to hopefully make hrefs *just work* no matter what.
+#  (By doing that, we shouldn't even need to use site.url in the template at all.)
+#
+# see also:  http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
+# and:  https://github.com/jekyll/jekyll/pull/5399
+
 url:              ''
 
 plugins:          [jekyll-paginate]
