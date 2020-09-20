@@ -13,10 +13,10 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 
 ## Work Experience
 * [**Oregon State University**](https://oregonstate.edu/ "Home page of Oregon State University") - [2019 - 2020]
-  - **Graduate Teaching Assistant** - CS-493 Cloud Application Development
-  - **Graduate Teaching Assistant** - CS-562 Software Project Management
+  - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
+  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
   - **Graduate Teaching Assistant** - CS-361 - Software Engineering I
-  - **Graduate Teaching Assistant** - CS-561 - Software Engineering Methods
+  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs561/index.shtml" style="text-decoration:underline;color:#313131" target="_blank">CS-561 - Software Engineering Methods</a>
 * [**Cognizant Technology Solutions**](https://www.cognizant.com/) - [2014 - 2018]
   - **Software Development Engineer in Test**
     + Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa. 
