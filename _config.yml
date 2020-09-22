@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Sheekha Jariwala
 tagline:          'My Portfolio'
-description:      'Computer-Science Grad | Bibliophile'
+description:      'Computer-Science Grad Bibliophile'
 
 # Following comment is from repository https://github.com/jreel/jreel.github.io. Very useful! 
 # There is much confusion around the use of the settings for url and baseurl.
@@ -28,6 +28,7 @@ description:      'Computer-Science Grad | Bibliophile'
 # and:  https://github.com/jekyll/jekyll/pull/5399
 
 url:              ''
+book-reviews-url: '/book-reviews/'
 
 plugins:          [jekyll-paginate]
 
@@ -39,6 +40,7 @@ author:
   goodreads:      'sheekhajariwala'
 
 paginate:         5
+paginate_path:    "/book-reviews/page:num/"
 
 # Custom vars
 version:          1.0.0
