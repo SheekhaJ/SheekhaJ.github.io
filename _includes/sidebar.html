@@ -59,8 +59,12 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item{% if page.url == '/book-reviews/' | relative_url %} active{% endif %}" href="/book-reviews/">Book Reviews</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == '/quotes/' | relative_url %} active{% endif %}" href="/quotes/">Quotes</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == '/interview-resources/' | relative_url %} active{% endif %}" href="/interview-resources/">Interview Resources</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == '/investing/' | relative_url %} active{% endif %}" href="/investing/">Investing</a> -->
+      <!-- <a target="_blank" class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Pages Project</a> -->
       <a target="_blank" class="sidebar-nav-item{% if page.url == '/assets/cv.pdf' | relative_url %} active{% endif %}" href="{{ site.url }}/public/assets/Resume_SheekhaJariwala.pdf">Resume</a>
-      <a target="_blank" class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
