@@ -49,28 +49,28 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 ---
 
 ## Projects
-### Expert Retrieval System
+### <a title="View code on Github" target="_blank" style="text-decoration:underline;color:#313131"> Expert Retrieval System </a>
 * Designed & developed a web-app using **React**, **Redux**, **Node.js**, **Express** & **Neo4j** graph-database to source students’ and their domain expertise info to model property graph to search topic experts. 
 
-### Publisher-Subscriber System <a href="https://github.com/SheekhaJ/rabbitmq-sample" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+### <a href="https://github.com/SheekhaJ/rabbitmq-sample" title="View code on Github" target="_blank" style="text-decoration:underline;color:#313131">Publisher-Subscriber System</a>
 * Developed a **Flask** application to publish jobs to the subscribed processes by using **RabbitMQ**.
 
-### Natural Language Query to Cypher Query Generation <a href="https://github.com/SheekhaJ/CS535_final_project" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+### <a href="https://github.com/SheekhaJ/CS535_final_project" title="View on Github" target="_blank" style="text-decoration:underline;color:#313131"> Natural Language Query to Cypher Query Generation </a>
 * Deep-learning project to develop an encoder-decoder model to generate Cypher (query language for Neo4j database) query from natural language query using **Pytorch** for <a href="https://github.com/salesforce/WikiSQL">WikiSQL</a> dataset. 
 
-### DevOps in AWS
+### <a title="View code on Github" target="_blank" style="text-decoration:underline;color:#313131"> DevOps in AWS </a>
 * Built the CI/CD pipeline on **AWS platform** using **CodePipeline**, **CodeBuild** and **CodeDeploy** for an Node.js application. 
 
-### GIFovie - GIFs with sound <a href="https://github.com/SheekhaJ/Gifovie" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+### <a href="https://github.com/SheekhaJ/Gifovie" title="View on Github" target="_blank" style="text-decoration:underline;color:#313131">  GIFovie - GIFs with sound </a>
 * **NodeJS** application using **Express** to let users add sounds stored in **AWS S3** to GIFs from **Tenor API** and share them.
 
-### Natural Language Processing - Language Model Development <a href="https://github.com/SheekhaJ/CS-539-NaturalLanguageProcessing" alt="View on Github"> <i class="fab fa-github-square" style="color:#313131"></i></a>
+### <a href="https://github.com/SheekhaJ/CS-539-NaturalLanguageProcessing" title="View on Github" target="_blank" style="text-decoration:underline;color:#313131"> Natural Language Processing - Language Model Development </a>
 * Developed language model for translation between English and Japanese Katakana using **Carmel** and **Viterbi algorithm**.
 
-### Data-science library upgrade behavior study
+### <a title="View code on Github" target="_blank" style="text-decoration:underline;color:#313131"> Data-science library upgrade behavior study </a>
 * Study of over 3000 Git repositories to analyze developer behavior in upgrading dependencies versions in Python data-science projects.
 
-### Applied Machine Learning Projects <a href="https://github.com/SheekhaJ/CS519AppliedMachineLearning" alt="View on Github"> <i class="fab fa-github-square" style="color:313131"></i></a>
+### <a href="https://github.com/SheekhaJ/CS519AppliedMachineLearning" title="View on Github"  target="_blank" style="text-decoration:underline;color:#313131">  Applied Machine Learning Projects </a>
 * Developed models for salary prediction, house price prediction and movie review sentiment analysis using different machine learning algorithms of **scikit** library.
 
 ---
@@ -83,11 +83,5 @@ Created using [Jekyll](http://jekyllrb.com/).
 Using [Hyde](http://hyde.getpoole.com/) template by [@mdo](https://twitter.com/mdo)
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/SheekhaJ.github.io/issues/new) or contact me on any of the social media platforms mentioned on the sidebar.
-
-<!-- <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p> -->
-
-
 
 <!-- <a class="twitter-timeline" data-width="480" data-height="640" data-theme="dark" href="https://twitter.com/ShikhaJariwla?ref_src=twsrc%5Etfw">Tweets by ShikhaJariwla</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
