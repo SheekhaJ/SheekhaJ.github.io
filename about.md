@@ -12,12 +12,12 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 ---
 
 ## Work Experience
-* [**Oregon State University**](https://oregonstate.edu/ "Home page of Oregon State University") - [2019 - 2020]
-  - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
-  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
+* <a href="https://oregonstate.edu/" title="Home page of Oregon State University" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Oregon State University</a> - [2019 - 2020]
+  - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" title="Home page for CS-493" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
+  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" title="Home page for CS-562" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
   - **Graduate Teaching Assistant** - CS-361 - Software Engineering I
-  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs561/index.shtml" style="text-decoration:underline;color:#313131" target="_blank">CS-561 - Software Engineering Methods</a>
-* [**Cognizant Technology Solutions**](https://www.cognizant.com/) - [2014 - 2018]
+  - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs561/index.shtml" title="Home page for CS-561" style="text-decoration:underline;color:#313131" target="_blank">CS-561 - Software Engineering Methods</a>
+* <a href="https://www.cognizant.com/" title="Home page of Cognizant Technology Solutions" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Cognizant Technology Solutions</a> - [2014 - 2018]
   - **Software Development Engineer in Test**
     + Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa. 
     + Delivered training on Java, web & mobile automation testing using Selenium Web Driver, Appium & Perfecto for a team of 15 resources. 
@@ -31,19 +31,19 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 ---
 
 ## Education
-* **Oregon State University** - MS in Computer Science - [2018 - 2020]
-* **Gujarat Technological University** - BE in Electrical Engineering - [2010 - 2014]
+* <span style="text-decoration:underline;color:#313131;font-weight:bold">Oregon State University</span> - MS in Computer Science - [2018 - 2020]
+* <span style="text-decoration:underline;color:#313131;font-weight:bold">Gujarat Technological University</span> - BE in Electrical Engineering - [2010 - 2014]
 
 ---
 
 ## Skills
-### Programming Languages
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Programming Languages</span>
 Java • Python • Javascript • SQL • Cypher
-### DevOps
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">DevOps</span>
 Github • Jenkins • Maven • Docker • AWS EC2 • AWS S3 • AWS CodeDeploy • AWS CodeBuild • AWS CodePipeline
-### Tools
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Tools</span>
 JIRA • HP ALM • HP QC • Neo4j • MySQL • Postman • Visual Studio Code • Jupyter Notebook • Eclipse • Tortoise SVN • JFrog Artifactory • SeeTest Automation 
-### Libraries and Frameworks
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Libraries and Frameworks</span>
 NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG • Appium • Cucumber • Perfecto • Jersey • Pytorch
 
 ---
@@ -56,7 +56,7 @@ NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG •
 * Developed a **Flask** application to publish jobs to the subscribed processes by using **RabbitMQ**.
 
 ### <a href="https://github.com/SheekhaJ/CS535_final_project" title="View on Github" target="_blank" style="text-decoration:underline;color:#313131"> Natural Language Query to Cypher Query Generation </a>
-* Deep-learning project to develop an encoder-decoder model to generate Cypher (query language for Neo4j database) query from natural language query using **Pytorch** for <a href="https://github.com/salesforce/WikiSQL">WikiSQL</a> dataset. 
+* Deep-learning project to develop an encoder-decoder model to generate Cypher (query language for Neo4j database) query from natural language query using **Pytorch** for <a href="https://github.com/salesforce/WikiSQL" style="text-decoration:underline;color:#313131">WikiSQL</a> dataset. 
 
 ### <a title="View code on Github" target="_blank" style="text-decoration:underline;color:#313131"> DevOps in AWS </a>
 * Built the CI/CD pipeline on **AWS platform** using **CodePipeline**, **CodeBuild** and **CodeDeploy** for an Node.js application. 
