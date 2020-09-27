@@ -1,73 +1,21 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    
-    <div class="sidebar-about">
-      <h1>
-          <a class="name" href="{{ '/' | relative_url }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead" style="text-align:center;">{{ site.description }}</p>
-    </div>
+<div id="sidebar">
+  <header>
+    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+      <a href="{{ "/" | relative_url }}">
+        {% unless page.url == "/" %}
+          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+        {% endunless %}
+        {{ site.title }}
+      </a>
+    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+    <p class="lead">{{ site.description }}</p>
+  </header>
+  {% include sidebar-nav-links.html %}
 
-    <div id="contact-list1" style="text-align:center">
-      <!-- contact icons go here --> 
-      {% if site.author.github %}
-        <a href="https://github.com/{{ site.author.github }}" target="_blank">
-            <span class="fa-stack fa-medium">
-                <i class="fab fa-github fa-stack-2x"></i>
-            </span>
-        </a>
-      {% endif %}
-      {% if site.author.linkedin %}
-        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">
-            <span class="fa-stack fa-medium">
-                <i class="fab fa-linkedin fa-stack-2x"></i>
-            </span>
-        </a>
-      {% endif %}
-      {% if site.author.twitter %}
-        <a href="https://www.twitter.com/{{ site.author.twitter }}" target="_blank">
-            <span class="fa-stack fa-medium">
-                <i class="fab fa-twitter fa-stack-2x"></i>
-            </span>
-        </a>
-      {% endif %}	
-      {% if site.author.goodreads %}
-        <a href="https://www.goodreads.com/{{ site.author.goodreads }}" target="_blank">
-            <span class="fa-stack fa-medium">
-                <i class="fab fa-goodreads fa-stack-2x"></i>
-            </span>
-        </a>
-      {% endif %}	
-    </div>
+  {% if site.version %}
+    <span class="site-version">Currently v{{ site.version }}</span>
+  {% endif %}
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' | relative_url %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <a class="sidebar-nav-item{% if page.url == '/book-reviews/' | relative_url %} active{% endif %}" href="/book-reviews/">Book Reviews</a>
-      <!-- <a class="sidebar-nav-item{% if page.url == '/quotes/' | relative_url %} active{% endif %}" href="/quotes/">Quotes</a> -->
-      <!-- <a class="sidebar-nav-item{% if page.url == '/interview-resources/' | relative_url %} active{% endif %}" href="/interview-resources/">Interview Resources</a> -->
-      <!-- <a class="sidebar-nav-item{% if page.url == '/investing/' | relative_url %} active{% endif %}" href="/investing/">Investing</a> -->
-      <!-- <a target="_blank" class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Pages Project</a> -->
-      <a target="_blank" class="sidebar-nav-item{% if page.url == '/assets/cv.pdf' | relative_url %} active{% endif %}" href="{{ site.url }}/public/assets/Resume_SheekhaJariwala.pdf">Resume</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-  </div>
+  {% include sidebar-icon-links.html %}
+  {% include copyright.html %}
 </div>
