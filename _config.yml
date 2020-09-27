@@ -22,7 +22,9 @@ author:
   linkedin:       'sheekhajariwala'
   twitter:        'ShikhaJariwla'
   goodreads:      'sheekhajariwala'
-  google_analytics: 'UA-178259384-1'
+
+# for google-anaytics
+google_analytics: 'UA-178259384-1'
 
 paginate:         5
 # paginate_path:    '/page:num'
