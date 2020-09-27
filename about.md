@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+sidebar_link: true
 ---
 
 Hi, I'm Sheekha Jariwala! 
