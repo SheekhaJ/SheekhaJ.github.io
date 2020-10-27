@@ -5,6 +5,7 @@ categories:
   - Book Reviews
 tags:
   - book-reviews-silicon-valley-history
+  - book-reviews-non-fiction
   - book-reviews-tech-companies
   - book-reviews-autobiography
   - book-reviews-biography
