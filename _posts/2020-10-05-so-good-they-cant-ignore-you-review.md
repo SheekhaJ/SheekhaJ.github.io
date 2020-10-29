@@ -6,6 +6,7 @@ categories:
 tags:
   - book-reviews-self-help
   - book-reviews-productivity
+  - book-reviews-non-fiction
 ---
 
 <a href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you" style="float: left; padding-right: 20px"><img border="0" alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a> by <a href="https://www.goodreads.com/author/show/147891.Cal_Newport">Cal Newport</a><br/>
