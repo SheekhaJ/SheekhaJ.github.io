@@ -7,6 +7,7 @@ tags:
   - book-reviews-biography
   - book-reviews-autobiography
   - book-reviews-women-memoir
+  - book-reviews-non-fiction
 ---
 
 <a href="https://www.goodreads.com/book/show/38746485-becoming" style="float: left; padding-right: 20px"><img border="0" alt="Becoming" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/38746485-becoming">Becoming</a> by <a href="https://www.goodreads.com/author/show/2338628.Michelle_Obama">Michelle Obama</a><br/>
