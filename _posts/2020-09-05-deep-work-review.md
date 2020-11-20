@@ -6,6 +6,7 @@ categories:
 tags:
   - book-reviews-self-help
   - book-reviews-productivity
+  - book-reviews-non-fiction
 ---
 
 <a href="https://www.goodreads.com/book/show/25744928-deep-work" style="float: left; padding-right: 20px"><img border="0" alt="Deep Work: Rules for Focused Success in a Distracted World" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SX98_.jpg" /></a>
