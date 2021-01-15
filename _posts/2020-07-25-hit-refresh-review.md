@@ -3,6 +3,9 @@ layout: post
 title: 'Review: Hit Refresh - Satya Nadella'
 categories:
   - Book Reviews
+tags:
+  - book-reviews-leadership
+  - book-reviews-non-fiction
 ---
 
 <a href="https://www.goodreads.com/book/show/30835567-hit-refresh" style="float: left; padding-right: 20px"><img border="0" alt="Hit Refresh" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506565784l/30835567._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/30835567-hit-refresh">Hit Refresh</a> by <a href="https://www.goodreads.com/author/show/15424914.Satya_Nadella">Satya Nadella</a><br/>
