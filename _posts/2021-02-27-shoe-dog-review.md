@@ -5,6 +5,9 @@ categories:
   - Book Reviews
 tags:
   - book-reviews-leadership
+  - book-reviews-biography
+  - book-reviews-autobiography
+  - book-reviews-non-fiction
 ---
 
 <a href="https://www.goodreads.com/book/show/27220736-shoe-dog" style="float: left; padding-right: 20px"><img border="0" alt="Shoe Dog: A Memoir by the Creator of NIKE" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/27220736-shoe-dog">Shoe Dog: A Memoir by the Creator of NIKE</a> by <a href="https://www.goodreads.com/author/show/3319233.Phil_Knight">Phil Knight</a><br/>
