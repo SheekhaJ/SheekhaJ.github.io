@@ -3,7 +3,7 @@ layout: post
 title: "Review: The Prophet - Kahlil Gibran"
 categories:
   - Book Reviews
-tags:- 
+tags:
   - book-reviews-timeless-classic
   - book-reviews-prose-poetry
 ---
