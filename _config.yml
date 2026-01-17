@@ -5,9 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Sheekha Jariwala
 tagline:          'My Portfolio'
-description:      'Computer-Science Grad Bibliophile'
-# url:              https://fongandrew.github.io
-url:              ''
+url:              http://sheekhaj.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -22,9 +20,6 @@ author:
   linkedin:       'sheekhajariwala'
   twitter:        'ShikhaJariwla'
   goodreads:      'sheekhajariwala'
-
-# for google-anaytics
-google_analytics: 'UA-178259384-1'
 
 paginate:         5
 # paginate_path:    '/page:num'

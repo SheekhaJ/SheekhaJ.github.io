@@ -6,14 +6,14 @@ sidebar_link: true
 
 Hi, I'm Sheekha Jariwala! 
 
-I graduated recently with a Masters in Computer Science from [Oregon State University](https://oregonstate.edu/ "Home page of Oregon State University") where I was a student in the [School of EECS](https://eecs.oregonstate.edu/ "Home page of School of EECS at Oregon State University"). 
+I am a Software Engineer at Amazon Web Services, specializing in distributed systems and cloud infrastructure. With expertise in large-scale system design, production operations, and cross-team collaboration, I focus on building scalable, reliable, and secure cloud services that serve millions of customers worldwide.
 
-I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonstate.edu/people/scaffidi-christopher) as my advisor. I've been part of the [Software Innovation Track](https://eecs.oregonstate.edu/future-students/graduate/ms-cs-innovation) where the focus is to create real systems which are *novel* and *improvement* on existing systems. I'm eternally grateful to Chris for instilling such important values and teaching invaluable tips which has prepared me to work productively in field of Software Engineering in the industry. 
+I hold a Masters in Computer Science from [Oregon State University](https://oregonstate.edu/ "Home page of Oregon State University") where I studied in the [School of EECS](https://eecs.oregonstate.edu/ "Home page of School of EECS at Oregon State University") and had the privilege of working with [Dr. Christopher Scaffidi](https://eecs.oregonstate.edu/people/scaffidi-christopher) as my advisor in the [Software Innovation Track](https://eecs.oregonstate.edu/future-students/graduate/ms-cs-innovation).
 
 ---
 
 ## Work Experience
-* <a href="https://aws.amazon.com/s3/" title="Amazon S3" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon Web Services - S3</a> - [2020 - Present]
+* <a href="https://aws.amazon.com/s3/" title="Amazon S3" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon Web Services - S3</a> - [2022 - Present]
   - Designed and implemented a metadata compression system across multiple components, reducing storage footprint by 50% and extending system scalability.
   - Evaluated and selected compression strategies through performance benchmarking, balancing latency, throughput, and operational tradeoffs.
   - Designed and built ephemeral, production-like test environments to support local development and CI validation of distributed metadata services.
@@ -23,22 +23,22 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
   - Automated service onboarding and region build workflows to improve launch consistency and reduce operational toil.
   - Designed and implemented monitoring, alerting, and dashboards to improve observability and proactive issue detection.
   - Mentored engineers through onboarding and design reviews, contributing to code quality and system reliability.
-* <a href="https://amazon.com/" title="Amazon" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon - People Engine</a> - [2020 - Present]
+* <a href="https://amazon.com/" title="Amazon" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon - People Engine</a> - [2020 - 2022]
   - Built and maintained scalable test-data ingestion, validation, and UI/API automation frameworks supporting large internal datasets.
-  - Implemented end-to-end validation to verify correctness across primary and secondary (shadow) data stores, supporting safe migrations and consistency guarantees.
-  - Designed dashboards and reports to track test execution, failures, and long-term quality trends, improving visibility for partner teams.
+  - Implemented end-to-end validation across primary and secondary (shadow) data stores, supporting safe migrations and consistency guarantees.
+  - Designed dashboards and reports to track test execution, failures, and long-term quality trends.
 * <a href="https://oregonstate.edu/" title="Home page of Oregon State University" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Oregon State University</a> - [2019 - 2020]
   - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" title="Home page for CS-493" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
   - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" title="Home page for CS-562" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
   - **Graduate Teaching Assistant** - CS-361 - Software Engineering I
   - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs561/index.shtml" title="Home page for CS-561" style="text-decoration:underline;color:#313131" target="_blank">CS-561 - Software Engineering Methods</a>
 * <a href="https://www.cognizant.com/" title="Home page of Cognizant Technology Solutions" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Cognizant Technology Solutions</a> - [2014 - 2018]
-  - Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa.
-  - Delivered training on Java, web & mobile automation testing using Selenium Web Driver, Appium & Perfecto for a team of 15 resources.
-  - Led, mentored, performed code-review for a team of 3 resources interviewed out of 15 resources trained to perform for web & mobile automation testing.
-  - Built CI pipeline using Jenkins, Maven, Git and JFrog Artifactory by modifying & integrating test-framework to trigger sanity tests for web & mobile app builds to share build-health reports for 26 engineers.
-  - Built and customized hybrid test-automation framework for cloud mobile devices to run tests using Appium and Perfecto. Reduced test-execution time by 82% to signoff builds from SIT to QA environment by writing test-scripts to automate testing of mobile apps.
-  - Reduced time by 96% to analyze automation effort-saving for 8 engineers by developing a client to fetch test-run time from HP ALM.
+  - Reduced manual testing effort by 68% through development of a TestNG-based framework for automating Amazon Alexa banking skill testing.
+  - Delivered comprehensive training on Java, web, and mobile automation testing using Selenium WebDriver, Appium, and Perfecto for a team of 15 engineers.
+  - Led, mentored, and performed code reviews for a team of 3 engineers selected through interviews from the 15 trained resources.
+  - Implemented CI/CD pipelines using Jenkins, Maven, Git, and JFrog Artifactory to automate testing workflows and deliver build health reports to 26 engineers.
+  - Designed and implemented hybrid test automation frameworks for cloud mobile devices using Appium and Perfecto, achieving 82% reduction in test execution time for build signoffs.
+  - Developed analytics tools that reduced automation effort analysis time by 96% for 8 engineers through HP ALM integration.
 
 ---
 
