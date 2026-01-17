@@ -13,20 +13,21 @@ I hold a Masters in Computer Science from [Oregon State University](https://oreg
 ---
 
 ## Work Experience
-* <a href="https://aws.amazon.com/s3/" title="Amazon S3" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon Web Services - S3</a> - [2022 - Present]
-  - Designed and implemented a metadata compression system across multiple components, reducing storage footprint by 50% and extending system scalability.
-  - Evaluated and selected compression strategies through performance benchmarking, balancing latency, throughput, and operational tradeoffs.
-  - Designed and built ephemeral, production-like test environments to support local development and CI validation of distributed metadata services.
-  - Owned production operations for globally distributed storage services, ensuring high availability and operational readiness.
-  - Led response and recovery efforts for high-severity operational events across regions.
-  - Improved deployment and region-launch pipelines used by multiple services, with complex dependencies, increasing reliability and reducing manual intervention.
-  - Automated service onboarding and region build workflows to improve launch consistency and reduce operational toil.
-  - Designed and implemented monitoring, alerting, and dashboards to improve observability and proactive issue detection.
-  - Mentored engineers through onboarding and design reviews, contributing to code quality and system reliability.
-* <a href="https://amazon.com/" title="Amazon" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon - People Engine</a> - [2020 - 2022]
-  - Built and maintained scalable test-data ingestion, validation, and UI/API automation frameworks supporting large internal datasets.
-  - Implemented end-to-end validation across primary and secondary (shadow) data stores, supporting safe migrations and consistency guarantees.
-  - Designed dashboards and reports to track test execution, failures, and long-term quality trends.
+* <a href="https://amazon.com/" title="Amazon" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon</a> - [2020 - Present]
+  - **AWS S3** - [2022 - Present]
+    - Designed and implemented a metadata compression system across multiple components, reducing storage footprint by 50% and extending system scalability.
+    - Evaluated and selected compression strategies through performance benchmarking, balancing latency, throughput, and operational tradeoffs.
+    - Designed and built ephemeral, production-like test environments to support local development and CI validation of distributed metadata services.
+    - Owned production operations for globally distributed storage services, ensuring high availability and operational readiness.
+    - Led response and recovery efforts for high-severity operational events across regions.
+    - Improved deployment and region-launch pipelines used by multiple services, with complex dependencies, increasing reliability and reducing manual intervention.
+    - Automated service onboarding and region build workflows to improve launch consistency and reduce operational toil.
+    - Designed and implemented monitoring, alerting, and dashboards to improve observability and proactive issue detection.
+    - Mentored engineers through onboarding and design reviews, contributing to code quality and system reliability.
+  - **People Engine** - [2020 - 2022]
+    - Built and maintained scalable test-data ingestion, validation, and UI/API automation frameworks supporting large internal datasets.
+    - Implemented end-to-end validation across primary and secondary (shadow) data stores, supporting safe migrations and consistency guarantees.
+    - Designed dashboards and reports to track test execution, failures, and long-term quality trends.
 * <a href="https://oregonstate.edu/" title="Home page of Oregon State University" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Oregon State University</a> - [2019 - 2020]
   - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" title="Home page for CS-493" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
   - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" title="Home page for CS-562" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
