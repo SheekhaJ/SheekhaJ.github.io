@@ -13,21 +13,32 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 ---
 
 ## Work Experience
+* <a href="https://aws.amazon.com/s3/" title="Amazon S3" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon Web Services - S3</a> - [2020 - Present]
+  - Designed and implemented a metadata compression system across multiple components, reducing storage footprint by 50% and extending system scalability.
+  - Evaluated and selected compression strategies through performance benchmarking, balancing latency, throughput, and operational tradeoffs.
+  - Designed and built ephemeral, production-like test environments to support local development and CI validation of distributed metadata services.
+  - Owned production operations for globally distributed storage services, ensuring high availability and operational readiness.
+  - Led response and recovery efforts for high-severity operational events across regions.
+  - Improved deployment and region-launch pipelines used by multiple services, with complex dependencies, increasing reliability and reducing manual intervention.
+  - Automated service onboarding and region build workflows to improve launch consistency and reduce operational toil.
+  - Designed and implemented monitoring, alerting, and dashboards to improve observability and proactive issue detection.
+  - Mentored engineers through onboarding and design reviews, contributing to code quality and system reliability.
+* <a href="https://amazon.com/" title="Amazon" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Amazon - People Engine</a> - [2020 - Present]
+  - Built and maintained scalable test-data ingestion, validation, and UI/API automation frameworks supporting large internal datasets.
+  - Implemented end-to-end validation to verify correctness across primary and secondary (shadow) data stores, supporting safe migrations and consistency guarantees.
+  - Designed dashboards and reports to track test execution, failures, and long-term quality trends, improving visibility for partner teams.
 * <a href="https://oregonstate.edu/" title="Home page of Oregon State University" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Oregon State University</a> - [2019 - 2020]
   - **Graduate Teaching Assistant** - <a href="https://canvas.oregonstate.edu/courses/1764544/assignments/syllabus" title="Home page for CS-493" style="text-decoration:underline;color:#313131" target="_blank">CS-493 Cloud Application Development</a>
   - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs562/index.shtml" title="Home page for CS-562" style="text-decoration:underline;color:#313131" target="_blank">CS-562 Software Project Management</a>
   - **Graduate Teaching Assistant** - CS-361 - Software Engineering I
   - **Graduate Teaching Assistant** - <a href="http://web.engr.oregonstate.edu/~scaffidc/courses/cs561/index.shtml" title="Home page for CS-561" style="text-decoration:underline;color:#313131" target="_blank">CS-561 - Software Engineering Methods</a>
 * <a href="https://www.cognizant.com/" title="Home page of Cognizant Technology Solutions" style="text-decoration:underline;color:#313131;font-weight:bold" target="_blank">Cognizant Technology Solutions</a> - [2014 - 2018]
-  - **Software Development Engineer in Test**
-    + Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa. 
-    + Delivered training on Java, web & mobile automation testing using Selenium Web Driver, Appium & Perfecto for a team of 15 resources. 
-    + Led, mentored, performed code-review for a team of 3 resources interviewed out of 15 resources trained to perform for web & mobile automation testing.
-  - **DevOps Engineer**
-    + Built CI pipeline using Jenkins, Maven, Git and JFrog Artifactory by modifying & integrating test-framework to trigger sanity tests for web & mobile app builds to share build-health reports for 26 engineers. 
-  - **Automation QA Engineer**
-    + Built and customized hybrid test-automation framework for cloud mobile devices to run tests using Appium and Perfecto. Reduced test-execution time by 82% to signoff builds from SIT to QA environment by writing test-scripts to automate testing of mobile apps. 
-    + Reduced time by 96% to analyze automation effort-saving for 8 engineers by developing a client to fetch test-run time from HP ALM.
+  - Saved 68% of human working days by developing TestNG based framework to automate testing of banking skill on Amazon Alexa.
+  - Delivered training on Java, web & mobile automation testing using Selenium Web Driver, Appium & Perfecto for a team of 15 resources.
+  - Led, mentored, performed code-review for a team of 3 resources interviewed out of 15 resources trained to perform for web & mobile automation testing.
+  - Built CI pipeline using Jenkins, Maven, Git and JFrog Artifactory by modifying & integrating test-framework to trigger sanity tests for web & mobile app builds to share build-health reports for 26 engineers.
+  - Built and customized hybrid test-automation framework for cloud mobile devices to run tests using Appium and Perfecto. Reduced test-execution time by 82% to signoff builds from SIT to QA environment by writing test-scripts to automate testing of mobile apps.
+  - Reduced time by 96% to analyze automation effort-saving for 8 engineers by developing a client to fetch test-run time from HP ALM.
 
 ---
 
@@ -39,13 +50,17 @@ I've had the privilege to have [Dr. Christopher Scaffidi](https://eecs.oregonsta
 
 ## Skills
 ### <span style="text-decoration:underline;color:#313131;font-weight:bold">Programming Languages</span>
-Java • Python • Javascript • SQL • Cypher
-### <span style="text-decoration:underline;color:#313131;font-weight:bold">DevOps</span>
-Github • Jenkins • Maven • Docker • AWS EC2 • AWS S3 • AWS CodeDeploy • AWS CodeBuild • AWS CodePipeline
-### <span style="text-decoration:underline;color:#313131;font-weight:bold">Tools</span>
-JIRA • HP ALM • HP QC • Neo4j • MySQL • Postman • Visual Studio Code • Jupyter Notebook • Eclipse • Tortoise SVN • JFrog Artifactory • SeeTest Automation 
-### <span style="text-decoration:underline;color:#313131;font-weight:bold">Libraries and Frameworks</span>
-NodeJS • React • Redux • Material UI • Selenium Webdriver • TestNG • Appium • Cucumber • Perfecto • Jersey • Pytorch
+Java • Python • JavaScript • TypeScript • SQL • Cypher
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Distributed Systems & Cloud</span>
+AWS (S3, EC2, VPC, DynamoDB, SQS, SNS, ECS, Lambda, ECR, IAM) • Globally Distributed Systems • High-Availability Systems
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">DevOps & Infrastructure</span>
+Docker • CI/CD Pipelines • Jenkins • GitHub • CloudFormation • Infrastructure as Code • Automated Region Builds
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Data & Storage</span>
+DynamoDB • Athena • Neo4j • MySQL
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Monitoring & Observability</span>
+CloudWatch • Dashboards • Alerting • Operational Metrics
+### <span style="text-decoration:underline;color:#313131;font-weight:bold">Frameworks & Tools</span>
+Node.js • React • Selenium WebDriver • TestNG • Cucumber • Appium • Postman • QuickSight
 
 ---
 
